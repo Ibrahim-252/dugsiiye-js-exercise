@@ -1,6 +1,6 @@
+
 // Exercise 29: Fetching and Parsing JSON with Delay
 
- 
 const fakeJsonData = {
   name: "Ibrahim",
   age: 22,
